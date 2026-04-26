@@ -18,10 +18,10 @@ Scripts:
 - menu.ps1: Un menú con 3 diferentes opciones.
 
 Instrucciones de ejecución:
-1- Abrir Visual Studio Code.
-2- Abrir la carpeta del proyecto.
-3- Abrir el archivo que deseas ejecutar.
-4- Abrir la terminal integrada.
-5- Ejecutar el script con el comando:
+- Abrir Visual Studio Code.
+- Abrir la carpeta del proyecto.
+- Abrir el archivo que deseas ejecutar.
+- Abrir la terminal integrada.
+- Ejecutar el script con el comando:
     
     .\<Nombre del archivo>.ps1
